@@ -11,7 +11,6 @@ This CSS file adds an indicator to the Xfce4 workspace panel widget, on Linux. T
 ![Screenshot of how the workspace widget looks like with the indicator](screenshot_with_indicator.png)
 
 ## Installation
-### Quickstart
 Edit the file located at ~/.config/gtk-3.0/gtk.css. If it doesn't exist yet, then you will have to create it:
 
 ```
